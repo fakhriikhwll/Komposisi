@@ -1,0 +1,7 @@
+D:\18.11.2265\Komposisi\LatihanKomposisi\bin\Debug\LatihanKomposisi.exe.config
+D:\18.11.2265\Komposisi\LatihanKomposisi\bin\Debug\LatihanKomposisi.exe
+D:\18.11.2265\Komposisi\LatihanKomposisi\bin\Debug\LatihanKomposisi.pdb
+D:\18.11.2265\Komposisi\LatihanKomposisi\obj\Debug\LatihanKomposisi.csprojAssemblyReference.cache
+D:\18.11.2265\Komposisi\LatihanKomposisi\obj\Debug\LatihanKomposisi.csproj.CoreCompileInputs.cache
+D:\18.11.2265\Komposisi\LatihanKomposisi\obj\Debug\LatihanKomposisi.exe
+D:\18.11.2265\Komposisi\LatihanKomposisi\obj\Debug\LatihanKomposisi.pdb
